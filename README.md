@@ -27,7 +27,6 @@
 + [Ejercicio 21](./ej21.js)
 + [Ejercicio 22](./ej22.js)
 + [Ejercicio 23](./ej23.js)
-+ [Ejercicio 24](./ej24.js)
 + [Ejercicio 25](./ej25.js)
 + [Ejercicio 26](./ej26.js)
 + [Ejercicio 27](./ej27.js)
