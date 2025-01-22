@@ -1,0 +1,15 @@
+let cantidadDeUsuarios = 100;
+cantidadDeUsuarios += 5;
+console.log("Cantidad de usuarios en el punto de partida: 100");
+console.log("5 usuarios se unieron.");
+console.log(`Cantidad de usuarios en este momento: ${cantidadDeUsuarios}.`);
+cantidadDeUsuarios -= 3;
+console.log("3 usuarios se dieron de baja.");
+console.log(`Cantidad de usuarios en este momento ${cantidadDeUsuarios}.`);
+cantidadDeUsuarios *= 2;
+console.log("Los usuarios se duplican por compra de la empresa.");
+console.log(`Cantidad de usuarios en este momento: ${cantidadDeUsuarios}.`);
+console.log("La relación entre hombres y mujeres es del 50% para cada género.");
+cantidadDeUsuarios /= 2;
+console.log(`Cantidad de hombres: ${cantidadDeUsuarios}.`);
+console.log(`Cantidad de mujeres: ${cantidadDeUsuarios}.`);
